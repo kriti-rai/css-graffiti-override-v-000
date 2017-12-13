@@ -5,7 +5,7 @@
 div#wall #tag-2 {
   display:none;
 }
-/*# wall #tag-3 {
+body div#wall #tag-3.slick {
   display: none;
 }
 #wall #tag-4 {
